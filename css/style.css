@@ -10,7 +10,7 @@
 
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background: linear-gradient(#29000091 0, #0000008f 100%), url('img/bg.gif') no-repeat center bottom / cover;
+    background: linear-gradient(#29000091 0, #0000008f 100%), url('../img/bg.gif') no-repeat center bottom / cover;
     font-size: 16px;
 }
 
@@ -216,3 +216,4 @@ footer p {
 
 
 }
+
